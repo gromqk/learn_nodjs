@@ -1,0 +1,6 @@
+{"level":"info","message":"Got request GET /echo?messagea=proverka","timestamp":"2017-02-21T13:39:15.110Z"}
+{"level":"error","message":"Неизвестный URL","timestamp":"2017-02-21T13:39:15.112Z"}
+{"level":"info","message":"Got request GET /echo?message=proverka","timestamp":"2017-02-21T13:39:25.163Z"}
+{"level":"debug","message":"Echo: {\"success\":true,\"message\":\"proverka\"}","timestamp":"2017-02-21T13:39:25.164Z"}
+{"level":"info","message":"Got request GET /echo?message=proverka","timestamp":"2017-02-21T13:42:43.510Z"}
+{"level":"debug","message":"Echo: {\"success\":true,\"message\":\"proverka\"}","timestamp":"2017-02-21T13:42:43.512Z"}

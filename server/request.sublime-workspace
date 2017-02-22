@@ -1,0 +1,773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"require"
+			],
+			[
+				"co",
+				"console.\tconsole.log()"
+			],
+			[
+				"st",
+				"status\tXMLHttpRequest"
+			],
+			[
+				"url",
+				"urlParsed"
+			],
+			[
+				"lo",
+				"log( x: number ): number\tMath"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"qu",
+				"quotes"
+			],
+			[
+				"Quote",
+				"QuoteID"
+			],
+			[
+				"t",
+				"tarif"
+			],
+			[
+				"save",
+				"save_log"
+			],
+			[
+				"re",
+				"result_mail"
+			],
+			[
+				"booking",
+				"bookingcom"
+			],
+			[
+				"sta",
+				"states"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"boo",
+				"booking"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"dum",
+				"var_dump"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"WebC",
+				"WebChanelID"
+			],
+			[
+				"in",
+				"invoices"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"ex",
+				"exec_php"
+			],
+			[
+				"mb_st",
+				"mb_strlen"
+			],
+			[
+				"dump",
+				"dump"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"R",
+				"ReportTemplate"
+			],
+			[
+				"Report",
+				"ReportID"
+			],
+			[
+				"invoices",
+				"invoices"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"em",
+				"empty_resource"
+			],
+			[
+				"We",
+				"WebhanelID"
+			],
+			[
+				"Web",
+				"WebhanelID"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"limit",
+				"limit_rooms"
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"Butt",
+				"button"
+			],
+			[
+				"a",
+				"arr_str"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"Error",
+				"Errors"
+			],
+			[
+				"sa",
+				"save_log"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"log",
+				"log_string"
+			],
+			[
+				"we",
+				"webchanels"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"EM",
+				"empty_resource"
+			],
+			[
+				"Resou",
+				"ResourceTypeID"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"cha",
+				"change"
+			],
+			[
+				"defa",
+				"default_hotel"
+			],
+			[
+				"last",
+				"last_query"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ho",
+				"hotels"
+			],
+			[
+				"du",
+				"dump"
+			],
+			[
+				"da",
+				"dataOutput"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"new",
+				"new_room"
+			],
+			[
+				"Da",
+				"DateTime"
+			],
+			[
+				"pers",
+				"person_id"
+			],
+			[
+				"data",
+				"data_obj"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"class",
+				"addClass"
+			],
+			[
+				"app",
+				"append"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 314.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gromozeka/SVN/nodejs/server/request.sublime-project",
+		"/home/gromozeka/SVN/nodejs/server/server.js",
+		"/home/gromozeka/SVN/nodejs/server/request.js",
+		"/home/gromozeka/SVN/nodejs/server/log.js",
+		"/tmp/fz3temp-1/Reports.php",
+		"/tmp/fz3temp-1/Reservperiod.php",
+		"/tmp/fz3temp-1/2017-02-21 2.log",
+		"/home/gromozeka/SVN/nodejs/server/file.js",
+		"/tmp/fz3temp-1/Manage.php",
+		"/tmp/fz3temp-1/2017-02-21.log",
+		"/tmp/fz3temp-1/2017-02-20.log",
+		"/home/gromozeka/SVN/nodejs/app.js",
+		"/tmp/fz3temp-1/Booking.php",
+		"/tmp/fz3temp-1/Booking 2.php",
+		"/home/gromozeka/SVN/modx/doodles/core/components/doodles/model/doodles/doodles.class.php",
+		"/home/gromozeka/SVN/modx/doodles/_build/build.schema.php",
+		"/home/gromozeka/SVN/modx/doodles/_build/build.config.php",
+		"/home/gromozeka/SVN/modx/doodles/core/components/doodles/model/schema/doodles.mysql.schema.xml",
+		"/home/gromozeka/SVN/modx/doodles/core/components/doodles/elements/snippets/snippet.doodles.php",
+		"/home/gromozeka/SVN/modx/doodles/README.md",
+		"/home/gromozeka/SVN/modx/doodles/_build/build.config.sample.php",
+		"/home/gromozeka/SVN/doodles/core/components/doodles/elements/snippets/snippet.doodles.php",
+		"/home/gromozeka/SVN/doodles/core/components/doodles/model/doodles/doodles.class.php",
+		"/home/gromozeka/backup_ecvi.sh",
+		"/home/gromozeka/SVN/update/16.02.2017.sh",
+		"/home/gromozeka/SVN/update/24.01.2017.sh",
+		"/home/gromozeka/SVN/update/NEW_UPDATE_CREATE/makeupdate.sh",
+		"/home/gromozeka/SVN/update/NEW_UPDATE_CREATE/24.01.2017",
+		"/home/gromozeka/SVN/update/NEW_UPDATE_CREATE/17.02.2017_SAVE_LOG",
+		"/home/gromozeka/SVN/update/NEW_UPDATE_CREATE/16.02.2017",
+		"/home/gromozeka/SVN/update/17.02.2017_SAVE_LOG.sh",
+		"/tmp/fz3temp-1/2017-02-17 6.log",
+		"/tmp/fz3temp-1/2017-02-17 7.log",
+		"/tmp/fz3temp-1/2017-02-16 2.log",
+		"/tmp/fz3temp-1/2017-02-17 5.log",
+		"/home/gromozeka/SVN/ecvi/application/logs/1/getDataSyncTarif/2017-02-14.log",
+		"/tmp/fz3temp-1/2017-02-17 4.log",
+		"/tmp/fz3temp-1/2017-02-17 2.log",
+		"/tmp/fz3temp-1/2017-02-17 3.log",
+		"/tmp/fz3temp-1/2017-02-17.log",
+		"/tmp/fz3temp-1/2017-02-16.log",
+		"/tmp/fz3temp-1/2017-02-13.log",
+		"/tmp/fz3temp-1/2017-02-17_error.log",
+		"/tmp/fz3temp-1/header.php",
+		"/tmp/fz3temp-1/Device2user.php",
+		"/tmp/fz3temp-1/common_helper.php",
+		"/tmp/fz3temp-1/booking_helper.php",
+		"/tmp/fz3temp-1/Cashtransactions.php",
+		"/tmp/fz3temp-1/2017-02-15.log",
+		"/tmp/fz3temp-1/general.js",
+		"/tmp/fz3temp-1/booking_helper 2.php",
+		"/tmp/fz3temp-1/general 2.js",
+		"/tmp/fz3temp-1/2017-02-14 4.log",
+		"/tmp/fz3temp-1/webchanelfunc_helper.php",
+		"/tmp/fz3temp-1/2017-02-14 3.log",
+		"/tmp/fz3temp-1/Quote.php",
+		"/tmp/fz3temp-1/2017-02-14 2.log",
+		"/tmp/fz3temp-1/2017-02-14.log",
+		"/tmp/fz3temp-1/2017-02-07.log",
+		"/tmp/fz3temp-1/2017-02-07 5.log",
+		"/tmp/fz3temp-1/Api.php",
+		"/tmp/fz3temp-1/Api 2.php",
+		"/tmp/fz3temp-1/Api 3.php",
+		"/tmp/fz3temp-1/2017-02-10.log",
+		"/tmp/fz3temp-1/2017-02-07 2.log",
+		"/tmp/fz3temp-1/2017-02-07 4.log",
+		"/tmp/fz3temp-1/2017-02-07 3.log",
+		"/tmp/fz3temp-1/2017-02-08.log",
+		"/tmp/fz3temp-1/2016-12-22.log",
+		"/tmp/fz3temp-1/.htaccess",
+		"/tmp/fz3temp-1/Channelmanager.php",
+		"/home/gromozeka/SVN/helloapp/app/child.component.ts",
+		"/tmp/fz3temp-1/booking.js",
+		"/tmp/fz3temp-1/2017-02-03.log",
+		"/home/gromozeka/SVN/helloapp/app/app.component.ts",
+		"/home/gromozeka/SVN/helloapp/app/app.module.ts",
+		"/tmp/fz3temp-1/cart.php",
+		"/home/gromozeka/SVN/update/10.01.2017.sh",
+		"/home/gromozeka/SVN/angularJS/tpl/my-app.html",
+		"/tmp/fz3temp-1/2017-02-02.log",
+		"/tmp/fz3temp-1/Crud.php",
+		"/tmp/fz3temp-1/test.php",
+		"/tmp/fz3temp-1/Webbooking.php",
+		"/tmp/fz3temp-1/2017-01-25 2.log",
+		"/tmp/fz3temp-1/2017-01-25.log",
+		"/tmp/fz3temp-1/phpinfo.php",
+		"/tmp/fz3temp-1/History.php",
+		"/tmp/fz3temp-1/Invoices.php",
+		"/tmp/fz3temp-1/DB_query_builder.php",
+		"/home/gromozeka/SVN/update/13.01.2017.sh",
+		"/tmp/fz3temp-1/application.php",
+		"/tmp/fz3temp-1/Statistic.php",
+		"/home/gromozeka/SVN/update/13.01.2017/ecvi/application/controllers/frontend/Statistic.php",
+		"/tmp/fz3temp-1/bartarif.php",
+		"/home/gromozeka/SVN/update/01.07.2016.sh",
+		"/home/gromozeka/SVN/update/restart_servers.sh",
+		"/tmp/fz3temp-1/Messages.php",
+		"/home/gromozeka/SVN/update/26.12.2016.sh",
+		"/tmp/fz3temp-1/Index.php",
+		"/tmp/fz3temp-1/CodeIgniter.php",
+		"/tmp/fz3temp-1/2017-01-11.log",
+		"/tmp/fz3temp-1/2017-01-10.log",
+		"/tmp/fz3temp-1/Common_Controller.php",
+		"/tmp/fz3temp-1/config 3.php",
+		"/tmp/fz3temp-1/charts.js",
+		"/tmp/fz3temp-1/reserv_form_functions.js",
+		"/tmp/fz3temp-1/application 2.php",
+		"/tmp/fz3temp-1/mail.class.php",
+		"/tmp/fz3temp-1/mail.class 2.php",
+		"/tmp/fz3temp-1/template.php",
+		"/tmp/fz3temp-1/crud_model.php",
+		"/tmp/fz3temp-1/2016-12-26.log",
+		"/tmp/fz3temp-1/config 2.php",
+		"/tmp/fz3temp-1/relatednews.tpl",
+		"/tmp/fz3temp-1/callmeback.php",
+		"/tmp/fz3temp-1/config.php",
+		"/tmp/fz3temp-1/2016-12-14.log",
+		"/tmp/fz3temp-1/Payment.php",
+		"/tmp/fz3temp-1/2016-12-21.log",
+		"/home/gromozeka/SVN/update/19.12.2016.sh",
+		"/tmp/fz3temp-1/bootstrap.inc",
+		"/tmp/fz3temp-1/task_winners",
+		"/tmp/fz3temp-1/package.js",
+		"/tmp/fz3temp-1/index 2.php",
+		"/tmp/fz3temp-1/api.php",
+		"/tmp/fz3temp-1/utexx_model.php",
+		"/tmp/fz3temp-1/cli.php",
+		"/tmp/fz3temp-1/Utexx.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 75.0,
+		"where_history":
+		[
+			"/home/gromozeka/tmp/repair"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"savePeriod",
+			"php ",
+			"folder_name",
+			"FILE_NAME",
+			"$i",
+			"$1",
+			"44838",
+			"117689902",
+			"step",
+			"mergeBarTarif",
+			"cashTransactionOpenModal",
+			"openCasherS",
+			"09:48:29",
+			"mergeBarTarif",
+			"barTarifPrices",
+			"mergeBarTarif(",
+			"mergeBarTarif",
+			"data_for_sync_tarif",
+			"20170208-3779-13057484",
+			"stoimosty_remonta",
+			"1245754",
+			"mark_book",
+			"1540551299",
+			"secu",
+			"Limit",
+			"36224",
+			"1540551299",
+			"save_log",
+			"gzip_min_length",
+			"save_log",
+			"sess",
+			"2017-01-05",
+			"38111",
+			"kursy-remont-tehniki-spb",
+			"checkQuoteFromReserv",
+			"28279",
+			"returnsaldo",
+			"movingsaldo",
+			"returnsaldo",
+			"38279",
+			"buy",
+			"bay",
+			"bye",
+			"identifyTenderWinners",
+			"array('Reserv.Status'",
+			"checkQuote",
+			"uvedom",
+			"mergeBarTarif",
+			"modifyPriceTableForWebChanel",
+			"savePeriod",
+			"399046",
+			"updateRoomsValues",
+			".png",
+			"cross.png",
+			"/images/cross.png",
+			".png",
+			"_tender_list_filter",
+			"list_filter",
+			"function form",
+			"tender_current_date",
+			"_tender_list_filter",
+			"tenderTransportsSearch",
+			"_tender_list_filter",
+			"tenders_transports_search_count",
+			"tenderTransportsSearch",
+			"transports(",
+			"default_filters",
+			"transports(",
+			"default_filters",
+			"tenders_transports_search_count",
+			"tenderTransportsSearch",
+			"transports(",
+			"transports (",
+			"transports(",
+			"add_route",
+			"_validate_save_transport",
+			"function form",
+			"function new",
+			"page_c",
+			"_tender_list_filter",
+			"transports",
+			"filter1",
+			"icon-plus_my",
+			"new_tender",
+			"required",
+			"момнета",
+			"Вы не сможите",
+			"Вы не сможите изменить свою заявку до того момнета",
+			"Вы не сможите изменить свою заявку до того момнета, пока админисрратор не проверит её.",
+			"validate_save_tr",
+			"validate_save",
+			"fotorama.io",
+			"maxNDS",
+			"cooki",
+			"deviceUri + ",
+			"closeCasher",
+			"openCasherShift",
+			"closeCasher",
+			"opensession",
+			"deviceUri + ",
+			"toLocaleFormat",
+			"printFrCheckReturnSaldo",
+			"formatDate",
+			"592740",
+			"resourceNotFound",
+			"resource_type",
+			"1831832913",
+			"2037230004",
+			"1579494598",
+			"HotelID:34",
+			"1579494598",
+			"1739743",
+			"26484",
+			"253877",
+			"201611",
+			"201610",
+			"20161107-4529-11302796",
+			"11302796",
+			"20161107-4529-11302796",
+			"case 'travelline':",
+			"ChangeStatusReserv",
+			"reserv->update",
+			"no valid input data",
+			"264818",
+			"\"4\"",
+			"1991808",
+			"sync_quotes",
+			"updateRoomsValues"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"FILE_NAME",
+			"folder_name",
+			"$LINE",
+			"$FILE_NAME",
+			" name",
+			"price",
+			"/",
+			"cifrovoicenter.ru",
+			" ",
+			",",
+			"cifrovoicenter.ru",
+			"bd.cifrovoicenter.ru",
+			"7.0",
+			"7",
+			"\",\n\t\"",
+			"\",\n\"\n",
+			",\n",
+			"'",
+			", ",
+			",\n",
+			"{start",
+			"",
+			": ",
+			":",
+			">\n<",
+			"",
+			">\n<",
+			"'",
+			">\n<",
+			">\\n<",
+			"><",
+			"wsdl:",
+			"192.168.138.2",
+			"",
+			"$CI",
+			">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 19.0
+	},
+	"input":
+	{
+		"height": 25.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 165.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "request.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
